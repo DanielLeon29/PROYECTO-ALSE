@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alse/Documents/ALSE_2120/PROYECTO_ALSE/create_db.cpp
+stdio.h
+-
+stdlib.h
+-
+sqlite3.h
+-
+string
+-
+

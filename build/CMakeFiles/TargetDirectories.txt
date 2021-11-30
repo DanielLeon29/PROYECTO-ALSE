@@ -1,0 +1,8 @@
+/home/alse/Documents/ALSE_2120/PROYECTO_ALSE/build/CMakeFiles/sqlitedb_testing_update.dir
+/home/alse/Documents/ALSE_2120/PROYECTO_ALSE/build/CMakeFiles/edit_cache.dir
+/home/alse/Documents/ALSE_2120/PROYECTO_ALSE/build/CMakeFiles/sqlitedb_testing_select.dir
+/home/alse/Documents/ALSE_2120/PROYECTO_ALSE/build/CMakeFiles/sqlitedb_testing_insert.dir
+/home/alse/Documents/ALSE_2120/PROYECTO_ALSE/build/CMakeFiles/rebuild_cache.dir
+/home/alse/Documents/ALSE_2120/PROYECTO_ALSE/build/CMakeFiles/sqlitedb_testing_create.dir
+/home/alse/Documents/ALSE_2120/PROYECTO_ALSE/build/CMakeFiles/sqlitedb_testing_delete.dir
+/home/alse/Documents/ALSE_2120/PROYECTO_ALSE/build/CMakeFiles/sqlitedb_testing_open.dir

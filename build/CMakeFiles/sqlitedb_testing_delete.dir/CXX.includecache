@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alse/Documents/ALSE_2120/PROYECTO_ALSE/delete_db.cpp
+stdio.h
+-
+stdlib.h
+-
+sstream
+-
+iostream
+-
+sqlite3.h
+-
+
